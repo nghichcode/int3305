@@ -67,6 +67,6 @@ Yêu cầu :
 + Gõ `bai6.py` để chạy.
 + Nhập mảng x và h ví dụ: x=[1, 0, 1], h=[1, 0, 0, 1, 8, 2]
 
-Kết quả sẽ hển thịLinear convolution, Linear convolution (hàm sẵn có- convolve), Cyclic convolution và   Linear convolution từ Cyclic convolution 
+Kết quả sẽ hển thị Linear convolution, Linear convolution (hàm sẵn có-convolve), Cyclic convolution và   Linear convolution từ Cyclic convolution 
 
 
