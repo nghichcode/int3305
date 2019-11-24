@@ -10,7 +10,7 @@ Nhóm 6 Truyền Thông Đa Phương Tiện
 6. Nguyễn Văn Diên
 7. Dương Phương Nam
 
-##Cách chạy
+## Cách chạy
 **Bài 1**
 Yêu cầu :
 + Sửa tham số trong code
