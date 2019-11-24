@@ -44,8 +44,8 @@ Khi chạy sẽ tạo ra các file  :
 **Bài 4**
 Yêu cầu :
 + Sửa tham số trong code (Ảnh đầu vào mặc định file ảnh là 'image_inp.png')
-+ Gõ `bai4_encode.py` để chạy mã hóa tạo ảnh tần số. Tạo ra file image_out_freq.png
-+ Gõ `bai4_decode.py` để chạy giải mã hóa ảnh. Tạo ra file giải mã image_out_orig.png
++ Gõ `bai4_encode.py` để chạy mã hóa tạo ảnh tần số. Tạo ra file real.tif và imagined.tif
++ Gõ `bai4_decode.py` để chạy giải mã hóa ảnh. Tạo ra file giải mã decode.png
 
 **Bài 5**
 Yêu cầu :
