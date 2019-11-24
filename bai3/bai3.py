@@ -20,7 +20,7 @@ image_b = np.copy(im_inp)
 image_b[...,0]=image_b[...,1]=image_b[...,2]
 imsave('./image_out_b.png', image_b)
 
-image_a = im_inp[:, :, 3]
+image_a = np.copy(im_inp)
 image_a[...,0]=image_a[...,1]=image_a[...,2]=image_a[...,3]
 imsave('./image_out_a.png', image_a)
 
