@@ -10,6 +10,7 @@ Nhóm 6 Truyền Thông Đa Phương Tiện
 6. Nguyễn Văn Diên
 7. Dương Phương Nam
 
+##Cách chạy
 **Bài 1**
 Yêu cầu :
 + Sửa tham số trong code
@@ -66,4 +67,4 @@ Yêu cầu :
 
 Kết quả sẽ hển thịLinear convolution, Linear convolution (hàm sẵn có- convolve), Cyclic convolution và   Linear convolution từ Cyclic convolution 
 
-*_NCVN_*
+
