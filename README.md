@@ -1,6 +1,15 @@
 # int3305
 Nhóm 6 Truyền Thông Đa Phương Tiện
 
+## Thành viên:
+1. Lê Ngọc Thành 
+2. Kiều Thanh Phong 
+3. Tăng Thị Nhung
+4. Bùi Phương Nam
+5. Nguyễn Thị Thanh
+6. Nguyễn Văn Diên
+7. Dương Phương Nam
+
 **Bài 1**
 Yêu cầu :
 + Sửa tham số trong code
