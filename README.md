@@ -38,13 +38,17 @@ Yêu cầu :
 
 **Bài 5**
 Yêu cầu :
-+ Gõ `bai5.py` để chạy tạo ra bàn cờ.
++ Cài cv2 : `pip install opencv-python`
++ Gõ `python dentrang.py` để chạy tạo ra bàn cờ đen trắng.
++ Gõ `python chieungang.py` để chạy dải màu biến đổi tuần tự theo chiều ngang từ đỏ đến tím .
++ Gõ `python chieudoc.py` để chạy dải màu biến đổi tuần tự theo chiều dọc từ đỏ đến tím .
++ Gõ `python chieucheo.py` để chạy dải màu biến đổi tuần tự theo chiều chéo từ đỏ đến tím .
 
 Khi chạy sẽ tạo ra các file:
 + chess_blackwhite.png : Bàn cờ đen trắng
-+ chess_blackwhite.png : Bàn cờ biến đổi tuần tự theo chiều ngang từ đỏ đến tím 
-+ chess_blackwhite.png : Bàn cờ biến đổi tuần tự theo chiều dọc từ đỏ đến tím 
-+ chess_blackwhite.png : Bàn cờ biến đổi tuần tự theo chiều chéo từ đỏ đến tím 
++ chess_horigrad.png : Dải màu biến đổi tuần tự theo chiều ngang từ đỏ đến tím 
++ chess_vertgrad.png : Dải màu biến đổi tuần tự theo chiều dọc từ đỏ đến tím 
++ chess_slasgrad.png : Dải màu biến đổi tuần tự theo chiều chéo từ đỏ đến tím 
 
 **Bài 6**
 Yêu cầu :
