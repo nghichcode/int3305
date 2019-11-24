@@ -20,6 +20,7 @@ Khi chạy sẽ tạo ra 2 file  :
 + Câu 1: s1_t.png
 <img src=https://github.com/nghichcode/int3305/blob/master/bai1/s1_t.png>
 + Câu 2: s2_t.png
+<img src=https://github.com/nghichcode/int3305/blob/master/bai1/s2_t.png>
 
 **Bài 2**
 Yêu cầu :
