@@ -3,7 +3,7 @@ import matplotlib
 import numpy as np
 import colorsys
 
-height = width = 400
+height = width = 330
 chieudoc = np.zeros((height,width,3), np.uint8)
 
 for r in range (0,height):
