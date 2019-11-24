@@ -44,6 +44,7 @@ Khi chạy sẽ tạo ra các file  :
 
 **Bài 4**
 Yêu cầu :
++ Cài imageio : `pip install imageio`
 + Sửa tham số trong code (Ảnh đầu vào mặc định file ảnh là 'image_inp.png')
 + Gõ `bai4_encode.py` để chạy mã hóa tạo ảnh tần số. Tạo ra file real.tif và imagined.tif
 + Gõ `bai4_decode.py` để chạy giải mã hóa ảnh. Tạo ra file giải mã decode.png
